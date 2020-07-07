@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# react-rails-test
+Test for react-rails user authentication
+>>>>>>> 8c8f63f893d4419b5be58bd7a0905cfa37ed63ad
